@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type {Apartment} from "~/types/flat";
+import type { Apartment } from "~/types/flat";
 
 import ArrowIcon from "~/assets/img/arrow.svg";
 import { Directions, type SortState } from "~/types/sort";
@@ -11,11 +11,11 @@ type Column = {
 }
 
 const columns: Column[] = [
-  {key: 'plan', label: 'Планировка', sortable: false},
-  {key: 'apt', label: 'Квартира', sortable: false},
-  {key: 'area', label: 'S, м²', sortable: true},
-  {key: 'floor', label: 'Этаж', sortable: true},
-  {key: 'price', label: 'Цена, ₽', sortable: true},
+  { key: 'plan', label: 'Планировка', sortable: false },
+  { key: 'apt', label: 'Квартира', sortable: false },
+  { key: 'area', label: 'S, м²', sortable: true },
+  { key: 'floor', label: 'Этаж', sortable: true },
+  { key: 'price', label: 'Цена, ₽', sortable: true },
 ];
 
 const props = defineProps<{

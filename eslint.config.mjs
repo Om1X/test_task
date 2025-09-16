@@ -27,5 +27,6 @@ export default withNuxt({
                 message: 'Используй Object.keys/values/entries вместо for..in'
             }
         ],
+        'object-curly-spacing': ['error', 'always'],
     },
 })

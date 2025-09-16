@@ -1,9 +1,9 @@
-import {defineStore} from 'pinia';
+import { defineStore } from 'pinia';
 
-import type {Apartment} from "~/types/flat";
+import type { Apartment } from "~/types/flat";
 
 import { API } from "~/assets/consts/api";
-import {CACHE_KEY} from "~/assets/consts/flatFilter";
+import { CACHE_KEY } from "~/assets/consts/flatFilter";
 
 type FlatsResponse = {
     count: number

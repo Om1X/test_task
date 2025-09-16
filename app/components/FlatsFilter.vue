@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import Slider from '@vueform/slider';
-import { storeToRefs} from 'pinia';
+import { storeToRefs } from 'pinia';
 
 import { MAX_ROOMS } from '~/assets/consts/flatFilter';
 import RoomsButton from '~/components/ui/RoomsButton.vue';
