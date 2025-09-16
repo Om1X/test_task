@@ -1,0 +1,55 @@
+@use 'variables' as *;
+@use 'fonts';
+@use 'grid';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-main;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 55px;
+  letter-spacing: 0;
+  color: $main;
+  margin: 0;
+}
+
+.container {
+  max-width: $container-max;
+  min-width: $container-min;
+  margin: 0 auto;
+  background-color: $white;
+}
+
+input[type='number'] {
+  appearance: textfield;
+  -moz-appearance: textfield;
+}
+
+input[type='number']::-webkit-outer-spin-button,
+input[type='number']::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type='number'] {
+  -webkit-appearance: none;
+}
+
+
+@media (max-width: 1439px) {
+  .container {
+    padding: 48px 54px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .container {
+    padding: 80px 96px;
+  }
+}

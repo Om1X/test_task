@@ -1,0 +1,10 @@
+@for $i from 1 through 12 {
+  .grid-#{$i} {
+    display: grid;
+    grid-template-columns: repeat(#{$i}, minmax(auto, 1fr));
+  }
+}
+
+@for $i from 1 through 12 {
+  .span-#{$i} { grid-column: span #{$i}; }
+}

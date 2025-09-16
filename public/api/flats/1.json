@@ -1,0 +1,206 @@
+{
+  "count": 60,
+  "next": 2,
+  "items": [
+    {
+      "id": 1,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №101",
+      "rooms": 1,
+      "area": 34.2,
+      "floor": 2,
+      "floors": 25,
+      "price": 4620000
+    },
+    {
+      "id": 2,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №102",
+      "rooms": 2,
+      "area": 47.8,
+      "floor": 2,
+      "floors": 17,
+      "price": 5490000
+    },
+    {
+      "id": 3,
+      "plan": "./img/plan.png",
+      "apt": "3-комнатная №103",
+      "rooms": 3,
+      "area": 65.4,
+      "floor": 3,
+      "floors": 25,
+      "price": 6590000
+    },
+    {
+      "id": 4,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №104",
+      "rooms": 1,
+      "area": 36.1,
+      "floor": 3,
+      "floors": 17,
+      "price": 4890000
+    },
+    {
+      "id": 5,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №105",
+      "rooms": 2,
+      "area": 52.3,
+      "floor": 4,
+      "floors": 17,
+      "price": 6090000
+    },
+    {
+      "id": 6,
+      "plan": "./img/plan.png",
+      "apt": "3-комнатная №106",
+      "rooms": 3,
+      "area": 68.0,
+      "floor": 4,
+      "floors": 25,
+      "price": 7060000
+    },
+    {
+      "id": 7,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №107",
+      "rooms": 1,
+      "area": 33.8,
+      "floor": 5,
+      "floors": 25,
+      "price": 4680000
+    },
+    {
+      "id": 8,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №108",
+      "rooms": 2,
+      "area": 50.2,
+      "floor": 5,
+      "floors": 25,
+      "price": 5880000
+    },
+    {
+      "id": 9,
+      "plan": "./img/plan.png",
+      "apt": "3-комнатная №109",
+      "rooms": 3,
+      "area": 71.5,
+      "floor": 6,
+      "floors": 25,
+      "price": 7240000
+    },
+    {
+      "id": 10,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №110",
+      "rooms": 1,
+      "area": 35.0,
+      "floor": 6,
+      "floors": 25,
+      "price": 4860000
+    },
+    {
+      "id": 11,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №111",
+      "rooms": 2,
+      "area": 53.7,
+      "floor": 7,
+      "floors": 25,
+      "price": 6340000
+    },
+    {
+      "id": 12,
+      "plan": "./img/plan.png",
+      "apt": "3-комнатная №112",
+      "rooms": 3,
+      "area": 66.9,
+      "floor": 7,
+      "floors": 17,
+      "price": 7030000
+    },
+    {
+      "id": 13,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №113",
+      "rooms": 1,
+      "area": 37.4,
+      "floor": 8,
+      "floors": 17,
+      "price": 5180000
+    },
+    {
+      "id": 14,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №114",
+      "rooms": 2,
+      "area": 55.8,
+      "floor": 8,
+      "floors": 25,
+      "price": 6640000
+    },
+    {
+      "id": 15,
+      "plan": "./img/plan.png",
+      "apt": "3-комнатная №115",
+      "rooms": 3,
+      "area": 70.6,
+      "floor": 9,
+      "floors": 25,
+      "price": 7340000
+    },
+    {
+      "id": 16,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №116",
+      "rooms": 1,
+      "area": 34.6,
+      "floor": 9,
+      "floors": 17,
+      "price": 4950000
+    },
+    {
+      "id": 17,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №117",
+      "rooms": 2,
+      "area": 51.9,
+      "floor": 10,
+      "floors": 17,
+      "price": 6220000
+    },
+    {
+      "id": 18,
+      "plan": "./img/plan.png",
+      "apt": "3-комнатная №118",
+      "rooms": 3,
+      "area": 64.2,
+      "floor": 10,
+      "floors": 25,
+      "price": 7100000
+    },
+    {
+      "id": 19,
+      "plan": "./img/plan.png",
+      "apt": "1-комнатная №119",
+      "rooms": 1,
+      "area": 36.8,
+      "floor": 11,
+      "floors": 17,
+      "price": 5230000
+    },
+    {
+      "id": 20,
+      "plan": "./img/plan.png",
+      "apt": "2-комнатная №120",
+      "rooms": 2,
+      "area": 54.6,
+      "floor": 11,
+      "floors": 17,
+      "price": 6460000
+    }
+  ]
+}
